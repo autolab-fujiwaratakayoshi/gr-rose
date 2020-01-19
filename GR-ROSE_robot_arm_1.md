@@ -12,7 +12,7 @@
 
 https://www.makuake.com/project/co-event/shopping/ 
 
-#　使用する機器
+# 使用する機器
 今回、ＲＯＳをセットアップする構成は以下の通りです
 + JETSON NANO
 + JOYSTICK LOGICOOL　有線タイプ
