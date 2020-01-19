@@ -24,7 +24,7 @@ https://www.makuake.com/project/co-event/shopping/
 ## 1 ROSのインストール
 ## 2 URDF#1 STLデータを変換
 ## 3 URDF#2 URDFの記述
-## 4 ~上での動作確認
+## 4 URDF#3 ~上での動作確認
 ## 5 実際に動かす＃1　ROSとジョイスティックの通信
 ## 4 実際に動かす＃2　ROSとGR-COの通信
 ## 5 実際に動かす＃3　GR-ROSEのプログラム
